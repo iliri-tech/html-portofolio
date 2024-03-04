@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../2.2 Paragraph Element"
+		},
+		{
+			"path": "../../2.3 Void Elements"
+		},
+		{
+			"path": "../../2.4 Movie Ranking Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2.4 Movie Ranking Project"
+	}
+}
